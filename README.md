@@ -11,4 +11,4 @@
 <br>
 
 <div>ig: <a href="https://www.instagram.com/rzendeee/">@rzendee</a></div>]
-<div><a href="">Veja o projeto</a></div> 
+<div><a href="https://alerzendee.github.io/tailwindProjects/">Veja o projeto</a></div> 
